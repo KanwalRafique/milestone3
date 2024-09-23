@@ -67,3 +67,21 @@ button {
 button:hover {
     color: blue;
 }
+
+#resume-display {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid skyblue;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
+    /*Making thr resume Editable*/
+    outline: none;
+
+}
+
+#resume-display h2 {
+color: black;
+
+}
